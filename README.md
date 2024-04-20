@@ -4,7 +4,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)]
 [![Linkedin Badge](https://img.shields.io/badge/-Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Raj-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Atish-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Raj-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
 Full Stack Solution Architect
