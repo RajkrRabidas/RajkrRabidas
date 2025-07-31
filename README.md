@@ -1,9 +1,7 @@
 # RajkrRabidas
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/raj-kumar-rabidas-1a1428293/)
-[![Website Badge]()
-[![Website Badge]()
+[![Linkedin Badge](https://www.linkedin.com/in/raj-kumar-rabidas-1a1428293/)
 
 I'm
 Full Stack Solution Architect
