@@ -1,7 +1,7 @@
 # RajkrRabidas
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/raj-kumar-rabidas-1a1428293/)
+[<img src="[https://cdn-icons-png.flaticon.com/512/2496/2496097.png](https://media.licdn.com/dms/image/v2/D5603AQH1KCWCGtmJrw/profile-displayphoto-scale_200_200/B56Zik42SDHUAc-/0/1755113025316?e=1764806400&v=beta&t=JbAHyblg4XrE1cYNegn1TNPIW-Y7n6qXFeXWNEBXEFI)" />](https://www.linkedin.com/in/raj-kumar-rabidas-1a1428293/)
 
 I'm
 Full Stack Solution Architect
