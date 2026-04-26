@@ -5,32 +5,23 @@ I build practical, production-style projects and actively prepare for web develo
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-- Building full-stack oriented projects using React and Node.js
-- Strengthening backend fundamentals (APIs, databases, auth basics)
-- Improving code structure, performance, and best practices
-- Focused interview preparation for frontend / full-stack roles
-
----
-
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
+- Programming Languages :
 JavaScript
 
-> ## Frontend
+- Frontend -
 Reactjs, HTML, CSS, Tailwind Css, Bootstrap.
-> ## Backend
+- Backend -
 NodeJS, ExpressJS
 
-> ## Database
+- Database :
 PostgreSQL, MongoDB, Redis
 
-> ## DevOps & Cloud
+- DevOps & Cloud :
 Docker, Kubernetes, AWS, Google Cloud
 
-> ## Tools
+- Tools :
 Git, VS Code, Postman, Webpack, Vite
 
 ## 📫 How to Reach Me
